@@ -562,7 +562,7 @@ footer {
 }
 
 .developed-by a {
-    color: #25D366; /* WhatsApp brand color */
+    color: inherit;
     transition: var(--transition-fast);
 }
 
