@@ -474,6 +474,10 @@ section {
     transform: scale(1.1);
 }
 
+.client-logo-wide {
+    width: 260px;
+}
+
 /* Contact Section */
 .contact-grid {
     display: grid;
