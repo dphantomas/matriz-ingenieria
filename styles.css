@@ -478,6 +478,10 @@ section {
     width: 260px;
 }
 
+.client-logo-xwide {
+    width: 320px;
+}
+
 /* Contact Section */
 .contact-grid {
     display: grid;
